@@ -1,6 +1,6 @@
 # Industrial Automation Final Project
 
-![Project Image](assets\Eval.png)
+![Project Image](https://github.com/A-H-Mansoury/IA-Project/blob/main/assets/Eval.png)
 
 ## Scenario
 In this system, raw and processed goods in blue, green, and metallic colors enter a production line. Unprocessed items are separated for machining and returned to the line. A sorting station categorizes products into three lines, followed by a packaging area. Orders are placed via hardware and software HMIs, queued, and processed sequentially. Packaged orders are then sent to storage. A PID-controlled tank manages flow, with setpoints and disturbances applied through HMIs.
